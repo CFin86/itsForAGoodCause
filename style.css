@@ -1,8 +1,11 @@
 * {
     background-color: rgb(247, 0, 255);
+}
+#bewbs {
     background-image: url("fineArt.jpg");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center top;
     background-attachment: fixed;
     margin: center;
+    height: 500px;
 }
